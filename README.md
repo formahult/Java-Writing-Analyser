@@ -5,5 +5,7 @@ This project was completed as part Object-oriented Programming and Software Engi
 
 Compiling
 ---------
-TBC
+Original developed in the BlueJ development environment.
+
+Makefile being modified to compile with OpenJDK
 
